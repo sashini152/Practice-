@@ -13,6 +13,7 @@ document
         "email : " + email
      );
 
+     
     } else if (name === "") {
       alert("Please enter name");
     } else if (!email.includes("@gmail.com")) {
